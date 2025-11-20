@@ -24,32 +24,6 @@ My solutions to the LeetCode 15-Day Coding Challenge. This challenge includes a 
 
 **Progress:** 8/15 Completed | **Current Streak:** 8 days 🔥
 
-## 📂 Repository Structure
-
-```
-leetcode-15day-challenge/
-├── 3Sum/
-│   ├── solution.cpp
-├── GroupAnagrams/
-│   ├── solution.cpp
-├── LongestSubstringWithoutRepeatingCharacters/
-│   ├── solution.cpp
-├── MaximumSubarray/
-│   ├── solution.cpp
-├── MergeTwoSortedLists/
-│   ├── solution.cpp
-├── ProductOfArrayExceptSelf/
-│   ├── solution.cpp
-├── ValidAnagram/
-│   ├── solution.cpp
-├── BestTimeToBuyAndSellStock/
-│   ├── solution.cpp
-└── README.md
-```
-
-Each problem folder contains:
-- **solution.cpp** - C++ implementation with comments
-
 ## 💡 Key Concepts Covered
 
 ### Data Structures
