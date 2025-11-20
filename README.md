@@ -104,8 +104,3 @@ Find the contiguous subarray with the largest sum using dynamic programming.
 Solutions are primarily written in:
 - **C++** (Main language)
 
-## 🤝 Connect
-
-- **LeetCode:** [yourprofile](https://leetcode.com/yourprofile)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
