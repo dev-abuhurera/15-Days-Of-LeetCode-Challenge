@@ -36,24 +36,6 @@ LeetCode's 15-Day Challenge is a curated set of problems designed to improve cod
 
 **Legend:** ✅ Solved | 🔄 In Progress | ⏳ Not Started
 
-## 📂 Repository Structure
-
-```
-leetcode-15day-challenge/
-├── Day01/
-│   ├── README.md          # Problem description
-│   ├── solution.cpp       # Solution code
-│   └── explanation.md     # Approach & complexity
-├── Day02/
-│   ├── README.md
-│   ├── solution.cpp
-│   └── explanation.md
-...
-└── Day15/
-    ├── README.md
-    ├── solution.cpp
-    └── explanation.md
-```
 
 ## 💻 Languages Used
 
@@ -65,36 +47,3 @@ leetcode-15day-challenge/
 - **Acceptance Rate:** 100%
 - **Current Streak:** 4 days 🔥
 
-## 🎓 Key Learnings
-
-### Day 1: [Problem Name]
-- Learned about [concept]
-- Time Complexity: O(n)
-- Space Complexity: O(1)
-- Key Insight: [Brief insight]
-
-### Day 2: [Problem Name]
-- Practiced [technique]
-- Time Complexity: O(log n)
-- Space Complexity: O(1)
-- Key Insight: [Brief insight]
-About
-It is a 15 days leetcode problem solving challenge
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2025 Git
