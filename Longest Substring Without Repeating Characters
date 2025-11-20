@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+    vector<int> lastIndex(256, -1); // Stores last seen index of each char
+    int maxLen = 0, start = 0;
+
+    for(int i = 0; i < s.length(); i++) {
+        // If character seen before and is inside current window
+        if(lastIndex[s[i]] != -1 && lastIndex[s[i]] >= start) {
+            start = lastIndex[s[i]] + 1; // Move window start
+        }
+        
+        lastIndex[s[i]] = i; // Update last seen index
+        maxLen = max(maxLen, i - start + 1);
+    }
+    
+    return maxLen;
+}
+};
