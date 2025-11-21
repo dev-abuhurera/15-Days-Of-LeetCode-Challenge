@@ -2,7 +2,7 @@
 
 My solutions to the LeetCode 15-Day Coding Challenge. This challenge includes a curated set of problems covering essential data structures and algorithms to strengthen problem-solving skills.
 
-## 📊 Challenge Progress
+## 📋 Challenge Problems
 
 | # | Problem | Difficulty | Topics | Solution | Status |
 |---|---------|------------|--------|----------|--------|
@@ -14,15 +14,15 @@ My solutions to the LeetCode 15-Day Coding Challenge. This challenge includes a 
 | 06 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Array, Prefix Sum | [View](./ProductOfArrayExceptSelf/) | ✅ |
 | 07 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Hash Table, String, Sorting | [View](./ValidAnagram/) | ✅ |
 | 08 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Array, Dynamic Programming | [View](./BestTimeToBuyAndSellStock/) | ✅ |
-| 09 | [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [View](./Reverselinkedlist/) | ✅ |
-| 10 | [Problem Name](link) | 🟢 Easy | Topic | [View](./Day10/) | ⏳ |
+| 09 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [View](./ReverseLinkedList/) | ✅ |
+| 10 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | Array, Two Pointers, Binary Search | [View](./TwoSumII-InputArrayIsSorted/) | ✅ |
 | 11 | [Problem Name](link) | 🟡 Medium | Topic | [View](./Day11/) | ⏳ |
 | 12 | [Problem Name](link) | 🔴 Hard | Topic | [View](./Day12/) | ⏳ |
 | 13 | [Problem Name](link) | 🟡 Medium | Topic | [View](./Day13/) | ⏳ |
 | 14 | [Problem Name](link) | 🟢 Easy | Topic | [View](./Day14/) | ⏳ |
 | 15 | [Problem Name](link) | 🔴 Hard | Topic | [View](./Day15/) | ⏳ |
 
-**Progress:** 8/15 Completed | **Current Streak:** 8 days 🔥
+**Progress:** 10/15 Completed | **Current Streak:** 10 days 🔥
 
 ## 💡 Key Concepts Covered
 
