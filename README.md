@@ -14,7 +14,7 @@ My solutions to the LeetCode 15-Day Coding Challenge. This challenge includes a 
 | 06 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Array, Prefix Sum | [View](./ProductOfArrayExceptSelf/) | ✅ |
 | 07 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Hash Table, String, Sorting | [View](./ValidAnagram/) | ✅ |
 | 08 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Array, Dynamic Programming | [View](./BestTimeToBuyAndSellStock/) | ✅ |
-| 09 | [Reverse linked list](https://leetcode.com/problems/) | 🟢 Easy | Topic | [View](./Day09/) | ⏳ |
+| 09 | [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [View](./Day09/) | ⏳ |
 | 10 | [Problem Name](link) | 🟢 Easy | Topic | [View](./Day10/) | ⏳ |
 | 11 | [Problem Name](link) | 🟡 Medium | Topic | [View](./Day11/) | ⏳ |
 | 12 | [Problem Name](link) | 🔴 Hard | Topic | [View](./Day12/) | ⏳ |
