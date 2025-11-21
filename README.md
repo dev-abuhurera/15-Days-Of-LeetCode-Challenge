@@ -42,7 +42,7 @@ My solutions to the LeetCode 15-Day Coding Challenge. This challenge includes a 
 
 ## 📈 Statistics
 
-- **Total Solved:** 8/15 (53%)
+- **Total Solved:** 10/15 (53%)
 - **Easy:** 3
 - **Medium:** 5
 - **Hard:** 0
