@@ -1,0 +1,17 @@
+class Solution {
+public:
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        // Case 1: both empty
+        if (!p && !q) return true;
+
+        // Case 2: one empty, one not
+        if (!p || !q) return false;
+
+        // Case 3: different values
+        if (p->val != q->val) return false;
+
+        // Case 4: compare left + right recursively
+        return isSameTree(p->left, q->left) && 
+               isSameTree(p->right, q->right);
+    }
+};
