@@ -1,0 +1,29 @@
+
+class Solution {
+public:
+    private:
+    int diameter = 0;
+    
+    int height(TreeNode* root) {
+       
+        if (root == nullptr) {
+            return 0;
+        }
+        
+        // Recursively get heights of left and right subtrees
+        int leftHeight = height(root->left);
+        int rightHeight = height(root->right);
+        
+        // Update diameter if path through current node is longer
+        diameter = max(diameter, leftHeight + rightHeight);
+        
+        // Return height of current node
+        return 1 + max(leftHeight, rightHeight);
+    }
+    
+public:
+    int diameterOfBinaryTree(TreeNode* root) {
+        height(root);
+        return diameter;
+    }
+};
