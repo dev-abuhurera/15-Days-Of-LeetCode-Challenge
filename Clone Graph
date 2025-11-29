@@ -1,0 +1,33 @@
+
+
+class Solution {
+private:
+    unordered_map<Node*, Node*> visited;
+    
+    Node* dfs(Node* node) {
+        if (node == nullptr) {
+            return nullptr;
+        }
+        
+        // If node is already cloned, return the clone
+        if (visited.count(node)) {
+            return visited[node];
+        }
+        
+        // Create a clone of the current node
+        Node* clone = new Node(node->val);
+        visited[node] = clone;
+        
+        // Clone all neighbors
+        for (Node* neighbor : node->neighbors) {
+            clone->neighbors.push_back(dfs(neighbor));
+        }
+        
+        return clone;
+    }
+    
+public:
+    Node* cloneGraph(Node* node) {
+        return dfs(node);
+    }
+};
